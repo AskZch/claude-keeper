@@ -41,5 +41,5 @@ This project uses the following third-party software:
 
 ====================
 Claude Keeper - AI Verification System
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 AskZch.com
 Licensed under MIT License
