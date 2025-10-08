@@ -139,14 +139,14 @@ Our breakthrough is the **integration methodology**, not individual components:
 
 - **Documentation:** `/core/docs/`
 - **Issues:** GitHub Issues
-- **Commercial licensing:** licensing@claude-keeper.com
-- **Enterprise sales:** enterprise@claude-keeper.com
+- **Commercial licensing:** licensing@askzch.com
+- **Enterprise sales:** enterprise@askzch.com
 
 ## 🔗 Links
 
-- **Documentation:** [docs.claude-keeper.com](https://docs.claude-keeper.com)
-- **Hosted Platform:** [claude-keeper.com](https://claude-keeper.com) *(coming soon)*
-- **Case Studies:** [examples.claude-keeper.com](https://examples.claude-keeper.com)
+- **Documentation:** [claude-keeper.askzch.com](https://claude-keeper.askzch.com)
+- **Hosted Platform:** [askzch.com](https://askzch.com) *(launching soon)*
+- **Case Studies:** [examples.askzch.com/claude-keeper](https://examples.askzch.com/claude-keeper)
 
 ## 📄 Licensing
 
