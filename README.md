@@ -139,8 +139,8 @@ Our breakthrough is the **integration methodology**, not individual components:
 
 - **Documentation:** `/core/docs/`
 - **Issues:** GitHub Issues
-- **Commercial licensing:** zchesus@gmail.com
-- **Enterprise sales:** zchesus@gmail.com
+- **Commercial licensing:** zch@askzch.com
+- **Enterprise sales:** zch@askzch.com
 
 ## 🔗 Links
 
