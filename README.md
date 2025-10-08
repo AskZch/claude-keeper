@@ -144,9 +144,9 @@ Our breakthrough is the **integration methodology**, not individual components:
 
 ## 🔗 Links
 
-- **Documentation:** [claude-keeper.askzch.com](https://claude-keeper.askzch.com)
+- **Documentation:** [askzch.com/claude-keeper](https://askzch.com/claude-keeper)
 - **Hosted Platform:** [askzch.com](https://askzch.com) *(launching soon)*
-- **Case Studies:** [examples.askzch.com/claude-keeper](https://examples.askzch.com/claude-keeper)
+- **Case Studies:** [askzch.com/examples/claude-keeper](https://askzch.com/examples/claude-keeper)
 
 ## 📄 Licensing
 
