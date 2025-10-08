@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+*.log
+*.lock
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+*.tgz
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Temporary folders
+tmp/
+temp/
+
+# MCP data (local development)
+mcp-data/
+
+# Pro/Enterprise specific ignores
+pro/*/config/
+pro/*/secrets/
+pro/*/logs/
