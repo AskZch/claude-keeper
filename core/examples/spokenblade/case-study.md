@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-An offline, secure document translation system designed for sensitive government and institutional use. The system provides Montenegrin ↔ English translation using Facebook's NLLB-200-1.3B neural MT model, built specifically for air-gapped, high-security environments.
+An offline, secure document translation system designed for sensitive institutional use. The system provides Montenegrin ↔ English translation using Facebook's NLLB-200-1.3B neural MT model, built specifically for air-gapped, high-security environments.
 
 ### Technical Stack
 - **Backend:** FastAPI + gunicorn (single UvicornWorker)
@@ -102,7 +102,7 @@ The system successfully reached deployment readiness despite:
 ## Broader Implications
 
 This case study demonstrates Claude Keeper's effectiveness for:
-- **Government/institutional projects** with zero-failure requirements
+- **Sensitive institutional projects** with zero-failure requirements
 - **Complex debugging sessions** spanning multiple days
 - **Critical deadline scenarios** where context loss = project failure
 - **High-security environments** requiring verified, auditable fixes
@@ -116,7 +116,7 @@ This case study demonstrates Claude Keeper's effectiveness for:
 - Institutional-grade reliability ✅
 
 **Commercial Potential:**
-- Government/defense contractors need this level of reliability
+- Sensitive institutional contractors need this level of reliability
 - Enterprise projects with critical deadlines represent high-value market
 - Proven ability to prevent deployment disasters = strong ROI proposition
 
