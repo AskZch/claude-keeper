@@ -1,6 +1,6 @@
-# Claude Keeper 🧠
+# OctoVerify 🐙
 
-**Stop AI Goldfish Syndrome. Real-time verification layer for AI coding assistants.**
+**Multi-model verification for AI development. Stop AI goldfish syndrome.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE-MIT.md)
 [![License: BSL](https://img.shields.io/badge/License-BSL--1.1-blue.svg)](LICENSE-BSL.md)
@@ -18,7 +18,7 @@ AI coding assistants suffer from **"goldfish syndrome"** - catastrophic context 
 
 ## 🚀 The Solution
 
-Claude Keeper provides **persistent memory and external verification** that:
+OctoVerify provides **persistent memory and multi-model verification** that:
 - ✅ **Survives auto-compacts** without context loss
 - ✅ **Catches AI lies** before they cause damage
 - ✅ **Maintains continuity** across crashes and sessions
