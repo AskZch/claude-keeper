@@ -14,7 +14,7 @@ AI coding assistants suffer from **"goldfish syndrome"** - catastrophic context 
 - ❌ Makes false claims about completed work
 - ❌ Costs developers hours of repeated debugging
 
-**This affects EVERY Claude Code user on complex projects.**
+**This affects EVERY AI coding assistant user on complex projects.**
 
 ## 🚀 The Solution
 
@@ -37,13 +37,13 @@ OctoVerify provides **persistent memory and multi-model verification** that:
 
 ## 📊 Open-Core Model
 
-Claude Keeper uses a **proven open-core business model**:
+OctoVerify uses a **proven open-core business model**:
 
 ### 🆓 Core (MIT License)
 **Free forever for everyone:**
 - MCP memory server
 - Basic verification scripts
-- Claude lie detector
+- AI lie detector
 - SDK and integrations
 - Documentation and examples
 - **Full commercial use allowed**
@@ -62,20 +62,20 @@ Claude Keeper uses a **proven open-core business model**:
 ### Core (Free)
 ```bash
 # Clone the repository
-git clone https://github.com/[username]/claude-keeper.git
-cd claude-keeper/core
+git clone https://github.com/AskZch/octo-verify.git
+cd octo-verify/core
 
 # Install MCP server
 npm install -g ./mcp-server
 
-# Add to Claude Code
-claude mcp add claude-keeper
+# Add to AI coding assistant
+octoverify mcp add verification
 ```
 
 ### Pro (Hosted)
 ```bash
 # Coming soon - SaaS platform
-curl -sSL https://claude-keeper.com/install | sh
+curl -sSL https://octoverify.com/install | sh
 ```
 
 
@@ -84,7 +84,7 @@ curl -sSL https://claude-keeper.com/install | sh
 Our breakthrough is the **integration methodology**, not individual components:
 
 ### Revolutionary Verification Workflow:
-1. **External Process Spawning** - Using Claude Code's Task tool
+1. **External Process Spawning** - Using AI coding assistant Task tools
 2. **Parallel Verification** - Independent AI agents check claims
 3. **Real-time Lie Detection** - Catch false claims before damage
 4. **Auto-compact Survival** - Memory persistence through context loss
@@ -92,7 +92,7 @@ Our breakthrough is the **integration methodology**, not individual components:
 
 ### Core Technologies:
 - **MCP Memory-Keeper** (MIT licensed dependency)
-- **Claude Code Task Tool** (Anthropic proprietary - used not redistributed)
+- **AI Assistant Task Tools** (various providers - used not redistributed)
 - **Custom verification algorithms** (our innovation)
 
 ## 📚 Case Studies
@@ -144,9 +144,9 @@ Our breakthrough is the **integration methodology**, not individual components:
 
 ## 🔗 Links
 
-- **Documentation:** [askzch.com/claude-keeper](https://askzch.com/claude-keeper)
+- **Documentation:** [askzch.com/octoverify](https://askzch.com/octoverify)
 - **Hosted Platform:** [askzch.com](https://askzch.com) *(launching soon)*
-- **Case Studies:** [askzch.com/examples/claude-keeper](https://askzch.com/examples/claude-keeper)
+- **Case Studies:** [askzch.com/examples/octoverify](https://askzch.com/examples/octoverify)
 
 ## 📄 Licensing
 
@@ -165,6 +165,13 @@ Built on excellent open source foundations:
 
 ---
 
-**⭐ Star this repo if Claude Keeper saves you from goldfish syndrome!**
+## 👨‍💻 Development
 
-*First shipped: October 8, 2025 - The night we survived 2 auto-compacts and a crash without losing anything.*
+**Developed by:** Zch (AskZch.com)
+**Framework:** Part of Octo Omni Stack
+**AI Assistant:** Built with assistance from Claude
+**Tested with:** Claude Code (more AI assistants coming soon)
+
+**⭐ Star this repo if OctoVerify saves you from goldfish syndrome!**
+
+*First shipped: October 8, 2025 - The night we survived 3+ auto-compacts without losing anything.*
